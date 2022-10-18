@@ -1,5 +1,5 @@
 # JPCompose
-Listin with compose lazyColumn
+Listing with jetpack compose "lazyColumn"
 
 
     implementation "androidx.compose.ui:ui:1.2.1"
